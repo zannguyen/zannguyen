@@ -129,15 +129,18 @@ class Developer:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />
 </p>
 
-### 💪 Skills Level
+### 📊 Skills Proficiency
 
 ```
-         ██
-    ██   ██
-    ██   ██   ██
-██████████████████████████
-Python  JS/Node  AI/CV  Android
- 85%      65%     80%     60%
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  ████████████████████████████████░░░░░░░░░░░░░░  Python      85%   │
+│  ████████████████████████████████████░░░░░░░░░  AI/CV       80%   │
+│  ██████████████████████░░░░░░░░░░░░░░░░░░░░░░  JavaScript  65%   │
+│  ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  Android     60%   │
+│  ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Kotlin      55%   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -161,17 +164,6 @@ Python  JS/Node  AI/CV  Android
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="130" />
-  <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="130" />
-  <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.svg" width="130" />
-  <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.svg" width="130" />
-</p>
-
----
-
 ## 🔥 Contribution Graph
 
 <p align="center">
@@ -180,25 +172,32 @@ Python  JS/Node  AI/CV  Android
 
 ---
 
-## 🎯 Skills Radar
+## 🎯 Contribution Radar
 
-```
-                Commits
-                  80%
-                   ▲
-                  ╱ ╲
-                 ╱   ╲
-                ╱  1% ╲
-               ╱  Code ╲
-              ╱   Rev   ╲
-             ╱───────────╲
-       Issues        Pull Reqs
-          0%    19%       0%
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/zannguyen?theme=cyber&type=radar&hide_border=true&bg=0d1117&title=00FFF0&text=FFFFFF&line=00FFF0&area=true&curvature=0.5" />
+</p>
 
 ---
 
 ## 💬 Contact & Connect
+
+<p align="center">
+  <a href="https://github.com/zannguyen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&style=flat-square" />
+  </a>
+  <a href="https://facebook.com/iamzannguyen" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF&style=flat-square" />
+  </a>
+  <a href="mailto:nguyen2406gl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&style=flat-square" />
+  </a>
+  <a href="https://iamzannguyen.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00FFF0?style=for-the-badge&logo=world&logoColor=0D1117&style=flat-square" />
+  </a>
+</p>
+
+---
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -212,69 +211,6 @@ Python  JS/Node  AI/CV  Android
 ║   📍  Location  →   Da Nang City, Vietnam 🏝️                     ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <a href="https://github.com/zannguyen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&style=flat-square" /></a>
-  <a href="https://facebook.com/iamzannguyen"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF&style=flat-square" /></a>
-  <a href="mailto:nguyen2406gl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&style=flat-square" /></a>
-</p>
-
----
-
-## 🧊 Contribution Type Breakdown
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   📝 Commits    ████████████████████████████████████████████  80% │
-│   🔀 PRs       ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  19% │
-│   🔍 Reviews   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%  │
-│   🐛 Issues    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%  │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ⚡ Activity Overview
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   📚 Contributed to repositories:                            ║
-║                                                               ║
-║      • zannguyen/LACA_Platform_Version_2.0                   ║
-║      • zannguyen/K29CMUCS246BIS_GR...                        ║
-║      • zannguyen/Echo + 28 other repositories                 ║
-║                                                               ║
-║   🗺️ Active in: Python · JavaScript · HTML · Kotlin            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🌐 Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zannguyen&theme=matrix&column=-1&no-frame=true&no-bg=true&title=Gold,Silver,Bronze&rank=SECRET,LEGENDARY,TITLE&margin-w=8" />
-</p>
-
----
-
-## ⚙️ Systems Status
-
-```
-┌──────────────┬────────────────────────────────────────────────┐
-│  SYSTEM      │  STATUS                                       │
-├──────────────┼────────────────────────────────────────────────┤
-│  🟢 Profile  │  ONLINE · Last updated: March 2026            │
-│  🟢 Commits  │  260+ contributions in the last year          │
-│  🟢 Language │  Python (primary) · JavaScript (secondary)    │
-│  🟢 Location │  Da Nang City, Vietnam · UTC +07:00           │
-│  🟢 Focus    │  AI/ML · Computer Vision · YOLO              │
-└──────────────┴────────────────────────────────────────────────┘
 ```
 
 ---
