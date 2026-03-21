@@ -15,17 +15,20 @@
 
 <div align="center">
 
-![Cyber Banner](https://raw.githubusercontent.com/ZaNNguyen/ZaNNguyen/main/assets/cyber-banner.svg)
+```
+ ██████╗██╗  ██╗██████╗ ██╗      ██████╗ ██████╗ ██████╗ ██╗   ██╗██╗
+██╔════╝██║  ██║██╔══██╗██║     ██╔═══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██║
+██║     ███████║██████╔╝██║     ██║   ██║██████╔╝██████╔╝ ╚████╔╝ ██║
+██║     ██╔══██║██╔═══╝ ██║     ██║   ██║██╔══██╗██╔═══╝   ╚██╔╝  ╚═╝
+╚██████╗██║  ██║██║     ███████╗╚██████╔╝██║  ██║██║        ██║   ██╗
+ ╚═════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝   ╚═╝
+```
 
 # ✦ NGUYỄN VĂN NGUYÊN ✦
 
 ```
-██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ███╗   ███╗ █████╗ ███╗   ██╗███████╗██████╗
-██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗████╗  ██║██╔════╝██╔══██╗
-██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝██╔████╔██║███████║██╔██╗ ██║█████╗  ██████╔╝
-██╔══██╗██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══╝  ██╔══██╗
-██║  ██║╚██████╔╝██║     ███████╗██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║███████╗██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+█▀▀ █▀▀ █▀█ █▀█ ▄▀█ █▄░█ █▀▀ █▀ ▀█▀ █ █▀▀ █▀█ █▄░█ ▄▀█
+█▄█ ▄▄█ █▀▄ █▀▄ █▀█ █░▀█ █▄█ ▄█  █  █ ██▄ █▄█ █░▀█ █▀█
 ```
 
 ### 🔥 Software Developer · AI/ML Enthusiast · Computer Vision
@@ -48,7 +51,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name    = "Nguyễn Văn Nguyên"
+        self.name     = "Nguyễn Văn Nguyên"
         self.username = "zannguyen"
         self.location = "Da Nang City, Vietnam"
         self.timezone = "UTC +07:00"
@@ -82,11 +85,11 @@ class Developer:
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=zannguyen&show_icons=true&show=reviews&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FFF0&title_color=FF006E&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+</p>
 
-| <img height="165px" src="https://github-readme-stats.vercel.app/api?username=zannguyen&show_icons=true&show=reviews&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FFF0&title_color=FF006E&text_color=FFFFFF&count_private=true&include_all_commits=true" /> | <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=zannguyen&theme=react-dark&background=0D1117&border=7B2FFF&stroke=00FFF0&ring=FF006E&fire=00FFF0&currStreakLabel=00FFF0&sideNums=00FFF0&currStreakNum=FF006E&sideLabels=00FF88&dates=FFFFFF&type=stats" /> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                          **📈 Stats Overview**                                                                                                                          |                                                                                                                                 **🔥 Contribution Streak**                                                                                                                                 |
-
+<p align="center">
+  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=zannguyen&theme=react-dark&background=0D1117&border=7B2FFF&stroke=00FFF0&ring=FF006E&fire=00FFF0&currStreakLabel=00FFF0&sideNums=00FFF0&currStreakNum=FF006E&sideLabels=00FF88&dates=FFFFFF&type=stats" />
 </p>
 
 <p align="center">
@@ -97,28 +100,28 @@ class Developer:
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages
+### 🔤 Programming Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FFF0" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
 </p>
 
-### AI / Computer Vision
+### 🤖 AI / Computer Vision
 
-<p align="left">
-  <img src="https://img.shields.io/badge/YOLOv11-FF6B35?style=for-the-badge&logo=data:image/png;base64," />
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv11-FF6B35?style=for-the-badge&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" />
 </p>
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF" />
@@ -129,14 +132,12 @@ class Developer:
 ### 💪 Skills Level
 
 ```
-                    ██
-            ██      ██
-        ██  ██      ██  ██
-   ██   ██  ██      ██  ██   ██
-   ██   ██  ██      ██  ██   ██
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Python  JS/Node  AI/CV  Android  Kotlin
-  85%      65%     80%     60%      55%
+         ██
+    ██   ██
+    ██   ██   ██
+██████████████████████████
+Python  JS/Node  AI/CV  Android
+ 85%      65%     80%     60%
 ```
 
 ---
@@ -144,30 +145,18 @@ Python  JS/Node  AI/CV  Android  Kotlin
 ## 📦 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/zannguyen/YOLOv11">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=YOLOv11&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
-  </a>
-  <a href="https://github.com/zannguyen/AI-Tool-for-Software-Defect-Prediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI-Tool-for-Software-Defect-Prediction&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=YOLOv11&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI-Tool-for-Software-Defect-Prediction&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zannguyen/LACA_Platform_Version_2.0">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=LACA_Platform_Version_2.0&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
-  </a>
-  <a href="https://github.com/zannguyen/BaberShop-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=BaberShop-App&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=LACA_Platform_Version_2.0&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=BaberShop-App&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zannguyen/AI_trafficFlow_system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI_trafficFlow_system&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
-  </a>
-  <a href="https://github.com/zannguyen/ExamListDTU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=ExamListDTU&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI_trafficFlow_system&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=ExamListDTU&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
 </p>
 
 ---
@@ -175,11 +164,10 @@ Python  JS/Node  AI/CV  Android  Kotlin
 ## 🏆 Achievements
 
 <p align="center">
-
-| <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="120" /> | <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="120" /> | <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.svg" width="120" /> |
-| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|                                               **Pull Shark x1**                                               |                                               **Pull Shark x2**                                               |                                                **YOLO**                                                 |
-
+  <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="130" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="130" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.svg" width="130" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge/quickdraw-default.svg" width="130" />
 </p>
 
 ---
@@ -195,17 +183,17 @@ Python  JS/Node  AI/CV  Android  Kotlin
 ## 🎯 Skills Radar
 
 ```
-                    Commits
-                      80%
-                       ▲
-                      ╱ ╲
-                     ╱   ╲
-                    ╱  1% ╲
-                   ╱  Code ╲
-                  ╱   Rev   ╲
-                 ╱───────────╲
-           Issues        Pull Reqs
-              0%    19%       0%
+                Commits
+                  80%
+                   ▲
+                  ╱ ╲
+                 ╱   ╲
+                ╱  1% ╲
+               ╱  Code ╲
+              ╱   Rev   ╲
+             ╱───────────╲
+       Issues        Pull Reqs
+          0%    19%       0%
 ```
 
 ---
@@ -227,15 +215,9 @@ Python  JS/Node  AI/CV  Android  Kotlin
 ```
 
 <p align="center">
-  <a href="https://github.com/zannguyen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&style=flat-square" />
-  </a>
-  <a href="https://facebook.com/iamzannguyen">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF&style=flat-square" />
-  </a>
-  <a href="mailto:nguyen2406gl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&style=flat-square" />
-  </a>
+  <a href="https://github.com/zannguyen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&style=flat-square" /></a>
+  <a href="https://facebook.com/iamzannguyen"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF&style=flat-square" /></a>
+  <a href="mailto:nguyen2406gl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&style=flat-square" /></a>
 </p>
 
 ---
@@ -246,7 +228,7 @@ Python  JS/Node  AI/CV  Android  Kotlin
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │   📝 Commits    ████████████████████████████████████████████  80% │
-│   🔀 PRs       ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  19%  │
+│   🔀 PRs       ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  19% │
 │   🔍 Reviews   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%  │
 │   🐛 Issues    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%  │
 │                                                                  │
@@ -266,7 +248,7 @@ Python  JS/Node  AI/CV  Android  Kotlin
 ║      • zannguyen/K29CMUCS246BIS_GR...                        ║
 ║      • zannguyen/Echo + 28 other repositories                 ║
 ║                                                               ║
-║   🗺️ Active in: Python · JavaScript · HTML · Kotlin           ║
+║   🗺️ Active in: Python · JavaScript · HTML · Kotlin            ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -291,7 +273,7 @@ Python  JS/Node  AI/CV  Android  Kotlin
 │  🟢 Commits  │  260+ contributions in the last year          │
 │  🟢 Language │  Python (primary) · JavaScript (secondary)    │
 │  🟢 Location │  Da Nang City, Vietnam · UTC +07:00           │
-│  🟢 Focus    │  AI/ML · Computer Vision · YOLO               │
+│  🟢 Focus    │  AI/ML · Computer Vision · YOLO              │
 └──────────────┴────────────────────────────────────────────────┘
 ```
 
@@ -328,6 +310,6 @@ Python  JS/Node  AI/CV  Android  Kotlin
   ║  PROFILE GENERATED: March 2026                                ║
   ║  THEME: Cyberpunk React Dark                                   ║
   ║  CONTRIBUTIONS: 260+ in the last year                         ║
-  ║  PRIMARY LANGUAGE: Python                                    ║
+  ║  PRIMARY LANGUAGE: Python                                     ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
