@@ -172,11 +172,20 @@ class Developer:
 
 ---
 
-## 🎯 Contribution Radar
+## 🎯 Skills Distribution
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/zannguyen?theme=cyber&type=radar&hide_border=true&bg=0d1117&title=00FFF0&text=FFFFFF&line=00FFF0&area=true&curvature=0.5" />
-</p>
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                                                                 │
+│    ⚡ Contribution Type Distribution                           │
+│                                                                 │
+│        Commits ████████████████████████████████░░░░░░░  80%   │
+│        PRs    █████████████░░░░░░░░░░░░░░░░░░░░░░░░░  19%   │
+│        Review ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%   │
+│        Issues ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%   │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
