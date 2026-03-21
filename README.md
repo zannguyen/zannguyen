@@ -1,268 +1,333 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🔮 NGUYỄN VĂN NGUYÊN — CYBER DEVELOPER PROFILE                ║
-  ║  Last sync: March 2026                                          ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║                                                               ║
+  ║     █████╗ ██████╗  ██████╗██╗  ██╗██╗██╗   ██╗███████╗       ║
+  ║    ██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║   ██║██╔════╝       ║
+  ║    ███████║██████╔╝██║     ███████║██║██║   ██║█████╗         ║
+  ║    ██╔══██║██╔══██╗██║     ██╔══██║██║╚██╗ ██╔╝██╔══╝         ║
+  ║    ██║  ██║██║  ██║╚██████╗██║  ██║██║ ╚████╔╝ ███████╗       ║
+  ║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚══════╝       ║
+  ║                                                               ║
+  ║               D E V E L O P E R   P R O F I L E               ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
 -->
 
-<p align="center">
-  <!-- Animated terminal header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFF0&background=0D111700&center=true&vCenter=true&width=700&lines=╔══════════════════════════════════════╗;║%20SYSTEM%20STATUS:%20ONLINE%20;║%20USER:%20NGUYỄN%20VĂN%20NGUYÊN%20;║%20ROLE:%20SOFTWARE%20DEVELOPER%20;║%20LOCATION:%20DA%20NANG%20CITY%20;╚══════════════════════════════════════╝" alt="Terminal Header" />
-</p>
+<div align="center">
+
+![Cyber Banner](https://raw.githubusercontent.com/ZaNNguyen/ZaNNguyen/main/assets/cyber-banner.svg)
+
+# ✦ NGUYỄN VĂN NGUYÊN ✦
+
+```
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ███╗   ███╗ █████╗ ███╗   ██╗███████╗██████╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗████╗  ██║██╔════╝██╔══██╗
+██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝██╔████╔██║███████║██╔██╗ ██║█████╗  ██████╔╝
+██╔══██╗██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══╝  ██╔══██╗
+██║  ██║╚██████╔╝██║     ███████╗██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║███████╗██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+```
+
+### 🔥 Software Developer · AI/ML Enthusiast · Computer Vision
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NAME-Nguyễn%20Văn%20Nguyên-00FFF0?style=for-the-badge&logo=terminal&logoColor=00FFF0" />
-  <img src="https://img.shields.io/badge/USERNAME-zannguyen-FF006E?style=for-the-badge&logo=github&logoColor=FF006E" />
-  <img src="https://img.shields.io/badge/LOCATION-Da%20Nang%20City-7B2FFF?style=for-the-badge&logo=map&logoColor=7B2FFF" />
-  <img src="https://img.shields.io/badge/TIME-22:53%20UTC%2B7-00FF88?style=for-the-badge&logo=clock&logoColor=00FF88" />
-</p>
-
-<p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=zannguyen&theme=cyber&hide_border=true&bg_color=0d1117&line=00FFF0&point=FF006E&area=true&curvature=0.7" />
+  <img src="https://img.shields.io/badge/Da%20Nang%20City-Vietnam-00FFF0?style=flat-square&logo=location&logoColor=00FFF0"/>
+  <img src="https://img.shields.io/badge/UTC%2B7-22:53-00FF88?style=flat-square&logo=clock&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/Contributions-260%2Byear-FF006E?style=flat-square&logo=fire&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/Status-Online-00FFF0?style=flat-square&logo=pulse&logoColor=00FFF0"/>
 </p>
 
 ---
 
-## 🎯 Mục lục
+## ⚡ About Me
 
-```
-[ 01 ] ━━ 👤 Giới thiệu
-[ 02 ] ━━ 🛠️ Kỹ năng & Công nghệ
-[ 03 ] ━━ 📊 Thống kê GitHub
-[ 04 ] ━━ 🏆 Thành tựu
-[ 05 ] ━━ 📦 Kho lưu trữ nổi bật
-[ 06 ] ━━ 🔥 Hoạt động gần đây
-[ 07 ] ┊ 💬 Liên hệ
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FFF0&background=0D111700&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Software+Developer+%7C+AI+%7C+Computer+Vision+%7C+Python;Building+innovative+solutions+in+Da+Nang" alt="Typing Effect" />
+</p>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name    = "Nguyễn Văn Nguyên"
+        self.username = "zannguyen"
+        self.location = "Da Nang City, Vietnam"
+        self.timezone = "UTC +07:00"
+        self.email    = "nguyen2406gl@gmail.com"
+        self.facebook = "iamzannguyen"
+        self.website  = "iamzannguyen.com"
+        self.status   = "🟢 Online"
+
+    def get_interests(self):
+        return [
+            "Computer Vision",
+            "YOLO Object Detection",
+            "AI & Machine Learning",
+            "Traffic Flow Systems",
+            "Software Defect Prediction",
+            "Mobile App Development",
+        ]
+
+    def get_languages(self):
+        return ["Python", "JavaScript", "HTML", "Kotlin", "Java"]
+
+    def get_achievements(self):
+        return ["Pull Shark x2", "YOLO", "260+ contributions/year"]
+
+    def build_future(self):
+        return "Always coding, always learning..."
 ```
 
 ---
 
-## 👤 Giới thiệu
-
-```ascii
- ╔═══════════════════════════════════════════════════════════════╗
- ║  ███████╗██╗  ██╗     ██████╗ ██╗███████╗ █████╗ ████████╗   ║
- ║  ██╔════╝██║  ██║     ██╔══██╗██║██╔════╝██╔══██╗╚══██╔══╝   ║
- ║  █████╗  ███████║     ██║  ██║██║█████╗  ███████║   ██║      ║
- ║  ██╔══╝  ██╔══██║     ██║  ██║██║██╔══╝  ██╔══██║   ██║      ║
- ║  ██║     ██║  ██║     ██████╔╝██║██║     ██║  ██║   ██║      ║
- ║  ╚═╝     ╚═╝  ╚═╝     ╚═════╝ ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝      ║
- ║       V A N  N G U Y E N  —  D E V E L O P E R                ║
- ╚═══════════════════════════════════════════════════════════════╝
-```
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyber&animation=firefly&username=zannguyen" />
+
+| <img height="165px" src="https://github-readme-stats.vercel.app/api?username=zannguyen&show_icons=true&show=reviews&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FFF0&title_color=FF006E&text_color=FFFFFF&count_private=true&include_all_commits=true" /> | <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=zannguyen&theme=react-dark&background=0D1117&border=7B2FFF&stroke=00FFF0&ring=FF006E&fire=00FFF0&currStreakLabel=00FFF0&sideNums=00FFF0&currStreakNum=FF006E&sideLabels=00FF88&dates=FFFFFF&type=stats" /> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                          **📈 Stats Overview**                                                                                                                          |                                                                                                                                 **🔥 Contribution Streak**                                                                                                                                 |
+
 </p>
 
-> ### *"Code is poetry written in logic. Every commit is a step closer to innovation."*
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zannguyen&theme=cyber&column=-1&no-frame=true&no-bg=true&title=Bronze,Silver,Gold,Platinum,Diamond&rank=SECRET,LEGENDARY,TITLE&margin-w=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannguyen&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=FFFFFF&ring_color=FF006E&border_color=7B2FFF" />
 </p>
 
 ---
 
-## 🛠️ Kỹ năng & Công nghệ
+## 🛠️ Tech Stack & Skills
 
-### ⚡ Ngôn ngữ lập trình
+### Programming Languages
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FFF0" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
 </p>
 
-### 🔧 Frameworks & Tools
+### AI / Computer Vision
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/YOLOv11-FF6B35?style=for-the-badge&logo=weight&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/YOLOv11-FF6B35?style=for-the-badge&logo=data:image/png;base64," />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" />
 </p>
 
-### 🧠 Chuyên môn
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />
+</p>
+
+### 💪 Skills Level
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  🟢 Computer Vision & AI        ████████████████████░░  85%  │
-│  🟢 Python Development          ██████████████████░░░  80%  │
-│  🟢 Traffic Flow Systems        ████████████████░░░░  70%  │
-│  🟡 JavaScript / Node.js        ██████████████░░░░░░  65%  │
-│  🟡 Mobile App Development      ████████████░░░░░░░  60%  │
-│  🟠 Software Defect Prediction  ██████████░░░░░░░░░  55%  │
-└──────────────────────────────────────────────────────────────┘
+                    ██
+            ██      ██
+        ██  ██      ██  ██
+   ██   ██  ██      ██  ██   ██
+   ██   ██  ██      ██  ██   ██
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Python  JS/Node  AI/CV  Android  Kotlin
+  85%      65%     80%     60%      55%
+```
+
+---
+
+## 📦 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/zannguyen/YOLOv11">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=YOLOv11&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  </a>
+  <a href="https://github.com/zannguyen/AI-Tool-for-Software-Defect-Prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI-Tool-for-Software-Defect-Prediction&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zannguyen/LACA_Platform_Version_2.0">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=LACA_Platform_Version_2.0&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  </a>
+  <a href="https://github.com/zannguyen/BaberShop-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=BaberShop-App&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zannguyen/AI_trafficFlow_system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI_trafficFlow_system&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  </a>
+  <a href="https://github.com/zannguyen/ExamListDTU">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=ExamListDTU&theme=react&bg_color=0D1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF&show_owner=false" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+| <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="120" /> | <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="120" /> | <img src="https://github.githubassets.com/images/modules/profile/badge/yolo-default.svg" width="120" /> |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|                                               **Pull Shark x1**                                               |                                               **Pull Shark x2**                                               |                                                **YOLO**                                                 |
+
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zannguyen&theme=react-dark&bg_color=0D1117&color=00FFF0&line=00FFF0&point=FF006E&area=true&curvature=0.5&hide_border=false&font=Fira+Code" />
+</p>
+
+---
+
+## 🎯 Skills Radar
+
+```
+                    Commits
+                      80%
+                       ▲
+                      ╱ ╲
+                     ╱   ╲
+                    ╱  1% ╲
+                   ╱  Code ╲
+                  ╱   Rev   ╲
+                 ╱───────────╲
+           Issues        Pull Reqs
+              0%    19%       0%
+```
+
+---
+
+## 💬 Contact & Connect
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║              ⚡  KẾT NỐI VỚI TÔI  ⚡                             ║
+║                                                                   ║
+║   📧  Email     →   nguyen2406gl@gmail.com                        ║
+║   💻  GitHub    →   github.com/zannguyen                          ║
+║   💬  Facebook  →   facebook.com/iamzannguyen                     ║
+║   🌐  Website   →   iamzannguyen.com                              ║
+║   📍  Location  →   Da Nang City, Vietnam 🏝️                     ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/v1?username=zannguyen&hideBorder=true&bg=0d1117&border=00FFF0&title_color=00FFF0&text_color=FFFFFF&icon_color=FF006E&stack_color=7B2FFF&line=00FFF0&animation=wave" />
+  <a href="https://github.com/zannguyen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&style=flat-square" />
+  </a>
+  <a href="https://facebook.com/iamzannguyen">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF&style=flat-square" />
+  </a>
+  <a href="mailto:nguyen2406gl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&style=flat-square" />
+  </a>
 </p>
 
 ---
 
-## 📊 Thống kê GitHub
-
-<p align="center">
-
-| <img width="400" src="https://github-readme-stats.vercel.app/api?username=zannguyen&show_icons=true&theme=cyber&hide_border=true&bg_color=0d1117&icon_color=00FFF0&title_color=00FFF0&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=00FFF0&ring_border_color=00FFF0" /> | <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zannguyen&theme=cyber&background=0d1117&border=FF006E&stroke=00FFF0&ring=7B2FFF&fire=00FF88&currStreakLabel=00FFF0&sideNums=00FFF0&currStreakNum=FF006E&sideLabels=7B2FFF&dates=00FFF0&short_stats=true" /> |
-|:---:|:---:|
-| **Tổng quan** | **Streak** |
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannguyen&layout=donut&theme=cyber&hide_border=true&bg_color=0d1117&title_color=00FFF0&text_color=FFFFFF&ring_color=00FFF0&border_color=7B2FFF" />
-</p>
-
----
-
-## 🏆 Thành tựu
-
-<p align="center">
+## 🧊 Contribution Type Breakdown
 
 ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                    🏆 ACHIEVEMENTS UNLOCKED 🏆                    ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                                                                  ║
-  ║   🦈 PULL SHARK  x2           ⚡ QUICKDRAW                       ║
-  ║   ━━━━━━━━━━━━━━━━━━━         ━━━━━━━━━━━━━━                     ║
-  ║   "2 pull requests merged"    "Speed-run your PRs"               ║
-  ║                                                                  ║
-  ║   🔮 YOLO                           🎯 GITHUB INVOLVEMENT        ║
-  ║   ━━━━━━━━━━━━                      ━━━━━━━━━━━━━━               ║
-  ║   "You only merge once"           "260 contributions/year"       ║
-  ║                                                                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   📝 Commits    ████████████████████████████████████████████  80% │
+│   🔀 PRs       ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  19%  │
+│   🔍 Reviews   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%  │
+│   🐛 Issues    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%  │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-</p>
-
-### 🦈 Pull Shark Badge
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="120" />
-  <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.svg" width="120" />
-</p>
-
 ---
 
-## 📦 Kho lưu trữ nổi bật
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=YOLOv11&theme=cyber&bg_color=0d1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI-Tool-for-Software-Defect-Prediction&theme=cyber&bg_color=0d1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=LACA_Platform_Version_2.0&theme=cyber&bg_color=0d1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=BaberShop-App&theme=cyber&bg_color=0d1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=AI_trafficFlow_system&theme=cyber&bg_color=0d1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zannguyen&repo=ExamListDTU&theme=cyber&bg_color=0d1117&title_color=00FFF0&icon_color=FF006E&border_color=7B2FFF&description_color=FFFFFF" />
-</p>
-
----
-
-## 🔥 Hoạt động gần đây
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zannguyen&theme=cyber&bg_color=0d1117&color=00FFF0&line=00FFF0&point=FF006E&area=true&curvature=0.6&hide_border=true&font=Fira+Code" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-shield.zunnzhn.vercel.app/zannguyen?theme=cyber&bg=0d1117&border=00FFF0&text=FFFFFF&title=00FFF0&logo=00FFF0&animation=typewriter" />
-</p>
-
----
-
-## 💬 Liên hệ & Kết nối
-
-<p align="center">
+## ⚡ Activity Overview
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║                   📡 KẾT NỐI VỚI TÔI 📡                      ║
-╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║   📧  Email     →  [nguyen2406gl@gmail.com]                   ║
-║   🌐  Website   →  [iamzannguyen.com]                         ║
-║   💬  Facebook  →  [facebook.com/iamzannguyen]                ║
-║   📍  Location  →  Da Nang City, Vietnam 🌴                  ║
+║   📚 Contributed to repositories:                            ║
+║                                                               ║
+║      • zannguyen/LACA_Platform_Version_2.0                   ║
+║      • zannguyen/K29CMUCS246BIS_GR...                        ║
+║      • zannguyen/Echo + 28 other repositories                 ║
+║                                                               ║
+║   🗺️ Active in: Python · JavaScript · HTML · Kotlin           ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-</p>
+---
+
+## 🌐 Profile Trophies
 
 <p align="center">
-
-|  <a href="https://github.com/zannguyen" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  |  <a href="https://facebook.com/iamzannguyen" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>  |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=zannguyen&theme=matrix&column=-1&no-frame=true&no-bg=true&title=Gold,Silver,Bronze&rank=SECRET,LEGENDARY,TITLE&margin-w=8" />
 </p>
 
 ---
 
-## 🧊 GitHub Activity Breakdown
+## ⚙️ Systems Status
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/zannguyen?theme=cyber&type=pie&hide_border=true&bg=0d1117&title=00FFF0&text=FFFFFF&line=00FFF0&area=true&curvature=0.5" />
-</p>
-
----
-
-## ⚡ Powered By
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bg=0d1117&border=00FFF0&title_color=00FFF0&text_color=FFFFFF&code_color=FF006E&theme=cyber" alt="Joke Card" />
-</p>
+```
+┌──────────────┬────────────────────────────────────────────────┐
+│  SYSTEM      │  STATUS                                       │
+├──────────────┼────────────────────────────────────────────────┤
+│  🟢 Profile  │  ONLINE · Last updated: March 2026            │
+│  🟢 Commits  │  260+ contributions in the last year          │
+│  🟢 Language │  Python (primary) · JavaScript (secondary)    │
+│  🟢 Location │  Da Nang City, Vietnam · UTC +07:00           │
+│  🟢 Focus    │  AI/ML · Computer Vision · YOLO               │
+└──────────────┴────────────────────────────────────────────────┘
+```
 
 ---
 
+## 🔮 Visitor Count
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Da%20Nang-0d1117?style=for-the-badge&logo=heart&logoColor=FF006E" />
-  <img src="https://img.shields.io/badge/VIEWER-CYBER_DEVELOPER-00FFF0?style=for-the-badge&logo=robot&logoColor=00FFF0" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=pulse&logoColor=00FF88" />
+  <img src="https://komarev.com/ghpvc/?username=zannguyen&color=00FFF0&style=for-the-badge&logo=eye" />
 </p>
+
+---
 
 <p align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    ░▒▓█ NGUYỄN VĂN NGUYÊN █▓▒░                                ║
-║    ░▒▓█ zannguyen · Da Nang City █▓▒░                        ║
-║    ░▒▓█ © 2023-2026 · All systems normal █▓▒░                ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+ ██████╗ ██████╗ ███╗   ██╗ ██████╗ ██████╗  ██████╗ ██╗     ██╗████████╗██╗   ██╗
+██╔════╝██╔═══██╗████╗  ██║██╔════╝ ██╔══██╗██╔═══██╗██║     ██║╚══██╔══╝╚██╗ ██╔╝
+██║     ██║   ██║██╔██╗ ██║██║  ███╗██████╔╝██║   ██║██║     ██║   ██║    ╚████╔╝
+██║     ██║   ██║██║╚██╗██║██║   ██║██╔══██╗██║   ██║██║     ██║   ██║     ╚██╔╝
+╚██████╗╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║╚██████╔╝███████╗██║   ██║      ██║
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝      ╚═╝
 ```
 
+**Made with ❤️ in Da Nang City, Vietnam**
+
+**© 2023 - 2026 · All systems normal** ⚡
+
 </p>
+</div>
 
 <!--
   ╔═══════════════════════════════════════════════════════════════╗
   ║  PROFILE GENERATED: March 2026                                ║
-  ║  THEME: Cyberpunk / Neon / Dark                               ║
-  ║  STATS: 260+ contributions in the last year                  ║
-  ║  LANGUAGES: Python, JavaScript, HTML, Kotlin                  ║
+  ║  THEME: Cyberpunk React Dark                                   ║
+  ║  CONTRIBUTIONS: 260+ in the last year                         ║
+  ║  PRIMARY LANGUAGE: Python                                    ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
