@@ -12,7 +12,7 @@ Software Developer — AI & Computer Vision
 
 ### About
 
-Tôi là một lập trình viên tập trung vào AI và Computer Vision, với kinh nghiệm xây dựng hệ thống nhận diện đối tượng (YOLO), phân tích luồng giao thông, dự đoán lỗi phần mềm và phát triển ứng dụng di động Android.
+Tôi là một lập trình viên tập trung vào phát triển các trang web phù hợp với nhu cầu của khách hàng, tôi sẽ biến tất cả những ý tưởng thành hiện thực. Không chỉ bằng những lời nói mà cùng với đó là những dòng code và quản lý dự án của chính mình
 
 ---
 
