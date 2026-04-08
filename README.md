@@ -2,7 +2,7 @@
 
 # Nguyễn Văn Nguyên
 
-Fullstack Web Developer · 2+ years experience
+Fullstack Web Developer · 1+ years experience
 
 📍 Da Nang City, Vietnam &nbsp;·&nbsp; 🌐 [iamzannguyen.com](https://portfolio-zannguyens-projects.vercel.app)
 
