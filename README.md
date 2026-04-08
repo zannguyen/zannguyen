@@ -58,4 +58,4 @@ Tôi là một lập trình viên tập trung vào AI và Computer Vision, với
 
 📧 [nguyen2406gl@gmail.com](mailto:nguyen2406gl@gmail.com) &nbsp;·&nbsp;
 💬 [facebook.com/iamzannguyen](https://facebook.com/iamzannguyen) &nbsp;·&nbsp;
-🌐 [iamzannguyen.com](https://iamzannguyen.com)
+🌐 [iamzannguyen.com](https://portfolio-zannguyens-projects.vercel.app)
