@@ -4,7 +4,7 @@
 
 Software Developer — AI & Computer Vision
 
-📍 Da Nang City, Vietnam &nbsp;·&nbsp; 🌐 [iamzannguyen.com](https://iamzannguyen.com)
+📍 Da Nang City, Vietnam &nbsp;·&nbsp; 🌐 [iamzannguyen.com](https://portfolio-zannguyens-projects.vercel.app)
 
 </div>
 
